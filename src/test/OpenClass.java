@@ -7,4 +7,8 @@ public class OpenClass {
 	void newMethod(){
 		// new line
 	}
+	
+	void newMethod2(){
+		
+	}
 }
