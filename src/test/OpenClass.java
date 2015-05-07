@@ -6,6 +6,7 @@ public class OpenClass {
 	
 	void newMethod(){
 		// new line
+		// new line
 	}
 	
 	void newMethod2(){
