@@ -11,4 +11,8 @@ public class OpenClass {
 	void newMethod2(){
 		
 	}
+	
+	void newMethod3(){
+		
+	}
 }
