@@ -5,12 +5,12 @@ public class OpenClass {
 	// newline
 	
 	void newMethod(){
-		// new line
+		// new line conflict
 		// new line
 	}
 	
 	void newMethod2(){
-		
+		// other changes, too.
 	}
 	
 	void newMethod3(){
