@@ -5,7 +5,7 @@ public class OpenClass {
 	// newline
 	
 	void newMethod(){
-		// new line
+		// new line with conflict!!!
 		// new line
 	}
 	
