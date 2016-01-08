@@ -20,4 +20,8 @@ public class OpenClass {
 	public void commit1(){
 		
 	}
+	
+	public void commit2(){
+		
+	}
 }
