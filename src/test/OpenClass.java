@@ -16,4 +16,8 @@ public class OpenClass {
 	void newMethod3(){
 		// new3
 	}
+	
+	public void commit1(){
+		
+	}
 }
